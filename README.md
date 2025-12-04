@@ -1,8 +1,10 @@
 <div align="center">
   
-# Hey, I'm Nox 👋
+# Hey, I'm Nox 🦊
 
-**General Manager** · **Marketer** · **ML Enthusiast** · **Builder**
+**I break things, then fix them.**
+
+GM · Marketer · Code Wizard (occasionally)
 
 [![X](https://img.shields.io/badge/@__nullrunner-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_nullrunner)
 
@@ -10,14 +12,14 @@
 
 ---
 
-### 🚀 What I'm Up To
+### 🔥 What I'm Cooking
 
-- 🏢 Running a company as **General Manager**
-- 📈 Building & scaling **SaaS products** (1 live, 1 in development)
-- 🤖 Deep-diving into **Machine Learning** & AI-assisted development
-- 🔧 Contributing to open source — recently fixed a bug in [Docker MCP Gateway](https://github.com/docker/mcp-gateway/pull/278)
+- 🏢 Running a company (someone has to do the boring stuff)
+- 🚀 Shipping **SaaS products** — 1 live, 1 in the oven
+- 🤖 Playing with **ML** because AI won't take my job if I take its first
+- 🔧 Contributing to open source — [fixed a bug in Docker MCP Gateway](https://github.com/docker/mcp-gateway/pull/278) because why not
 
-### 🛠️ Tech I Work With
+### 🛠️ Tools of Chaos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -26,7 +28,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 The Numbers
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=null-runner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
@@ -38,5 +40,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=null-runner&color=58a6ff&style=flat-square&label=Profile+Views" />
   
-  *📍 Reggio Emilia, Italy*
+  *📍 Reggio Emilia, Italy — where the Parmigiano is real and the code compiles (sometimes)*
 </div>
