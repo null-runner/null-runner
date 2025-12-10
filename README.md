@@ -12,7 +12,7 @@ $ whoami
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+nullrunner;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Building+the+bridge+between+AI+and+everything+else" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+nullrunner;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Building+the+bridge+between+AI+and+everything+else" alt="Typing SVG" />
   </a>
 </div>
 
@@ -99,27 +99,26 @@ fun_facts:
 </h2>
 
 <div align="center">
-  <a href="https://github.com/null-runner/chrome-mcp-docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-runner&repo=chrome-mcp-docker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9" />
-  </a>
-  <a href="https://github.com/null-runner/mcp-gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=null-runner&repo=mcp-gateway&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9" />
-  </a>
+
+| 🚀 Project | Description | Tech |
+|:-----------|:------------|:-----|
+| [**chrome-mcp-docker**](https://github.com/null-runner/chrome-mcp-docker) | Zero-crash Chrome DevTools MCP server for AI agents | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**mcp-gateway**](https://github.com/null-runner/mcp-gateway) | Docker MCP CLI plugin - unified gateway for MCP servers | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 </div>
 
+<details>
+<summary align="center"><b>🔬 More Projects</b></summary>
 <br/>
 
-<details>
-<summary><b>🔬 What I'm Building</b></summary>
-<br/>
+<div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **chrome-mcp-docker** | Zero-crash Chrome DevTools MCP server for AI agents | `Node.js` `Puppeteer` `Docker` |
-| **mcp-gateway** | Docker MCP CLI plugin - unified gateway for MCP servers | `Go` `Docker` |
 | **claude-workspace** | Autonomous Claude workspace with persistent memory | `Shell` `Python` |
 | **credential-manager** | Secure credential vault for AI agents | `Python` `Encryption` |
 
+</div>
 </details>
 
 ---
