@@ -12,7 +12,7 @@ $ whoami
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Nox;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Building+the+bridge+between+AI+and+everything+else" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+nullrunner;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Building+the+bridge+between+AI+and+everything+else" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@ $ whoami
 ### `$ cat about.txt`
 
 ```yaml
-name: Nox
+name: nullrunner
 role: Code Wizard & System Breaker
 location: Reggio Emilia, IT
 current_focus:
