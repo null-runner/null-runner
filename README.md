@@ -1,5 +1,12 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=null-runner&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=I%20break%20things,%20then%20fix%20them&descSize=20&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:6e40c9&height=200&section=header&text=null-runner&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=I%20break%20things,%20then%20fix%20them&descSize=20&descAlignY=55&animation=twinkling"/>
+
+<!-- PROFILE VIEWS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=null-runner&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
+
+<br/>
 
 <!-- TERMINAL INTRO -->
 <div align="center">
@@ -12,7 +19,7 @@ $ whoami
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+nullrunner;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Building+the+bridge+between+AI+and+everything+else" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+nullrunner;MCP+Architect+%7C+AI+Tooling+%7C+Docker+Wizard;Bridging+AI+and+Infrastructure" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,16 +28,13 @@ $ whoami
 <!-- QUICK INFO BADGES -->
 <div align="center">
 
-  [![Location](https://img.shields.io/badge/📍_Reggio_Emilia-Italy-0d1117?style=for-the-badge&labelColor=161b22)](https://maps.google.com/?q=Reggio+Emilia,Italy)
-  [![Twitter](https://img.shields.io/badge/@__nullrunner-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_nullrunner)
-  [![GitHub](https://img.shields.io/badge/null--runner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/null-runner)
+  [![Location](https://img.shields.io/badge/📍_Reggio_Emilia-Italy-0d1117?style=for-the-badge&labelColor=1a1035)](https://maps.google.com/?q=Reggio+Emilia,Italy)
+  [![Twitter](https://img.shields.io/badge/@__nullrunner-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1035)](https://twitter.com/_nullrunner)
+  [![GitHub](https://img.shields.io/badge/null--runner-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035)](https://github.com/null-runner)
 
 </div>
 
 <br/>
-
-<!-- ABOUT SECTION -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding gif"/>
 
 ### `$ cat about.txt`
 
@@ -130,21 +134,27 @@ fun_facts:
 </h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=null-runner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-runner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=null-runner&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=6e40c9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=null-runner&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=6e40c9&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=null-runner&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=null-runner&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&langs_count=8"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-runner&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=6e40c9&fire=58a6ff&currStreakLabel=58a6ff" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-runner&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1035&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e40c9" alt="streak stats"/>
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-runner&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=58a6ff&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=null-runner&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=9D4EDD&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&title_color=9D4EDD" width="100%"/>
 </div>
 
 ---
@@ -167,19 +177,15 @@ fun_facts:
 
 ---
 
-<!-- VISITOR COUNTER & CONNECT -->
+<!-- CONNECT -->
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=null-runner&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="profile views"/>
-
-  <br/><br/>
 
   ```bash
   $ echo "Let's build something awesome together"
   ```
 
   <a href="https://twitter.com/_nullrunner">
-    <img src="https://img.shields.io/badge/DM_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DM_me_on_X-1a1035?style=for-the-badge&logo=x&logoColor=9D4EDD"/>
   </a>
 
 </div>
