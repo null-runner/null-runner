@@ -135,10 +135,10 @@ fun_facts:
 
 <div align="center">
 
-| 🏢 Project | Contribution | Status | Impact |
-|:-----------|:-------------|:-------|:-------|
-| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool activation for Claude clients ([#279](https://github.com/docker/mcp-gateway/pull/279)) | 🔄 Review | Critical bug blocking MCP tool usage |
-| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool name forwarding to remote servers ([#278](https://github.com/docker/mcp-gateway/pull/278)) | ✅ Merged | Enabled proper tool routing |
+| 🏢 Project | Contribution | Impact |
+|:-----------|:-------------|:-------|
+| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool activation for Claude clients ([#279](https://github.com/docker/mcp-gateway/pull/279)) | Critical bug blocking MCP tool usage |
+| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool name forwarding to remote servers ([#278](https://github.com/docker/mcp-gateway/pull/278)) | Enabled proper tool routing |
 
 </div>
 
@@ -148,10 +148,10 @@ fun_facts:
 
 <div align="center">
 
-| Project | Issue | Status |
-|:--------|:------|:-------|
-| **docker/mcp-gateway** | [Custom catalog servers UI visibility](https://github.com/docker/mcp-gateway/issues/283) | 🟡 Open |
-| **docker/mcp-gateway** | [Server inspect custom catalog bug](https://github.com/docker/mcp-gateway/issues/282) | 🟡 Open |
+| Project | Issue |
+|:--------|:------|
+| **docker/mcp-gateway** | [Custom catalog servers UI visibility](https://github.com/docker/mcp-gateway/issues/283) |
+| **docker/mcp-gateway** | [Server inspect custom catalog bug](https://github.com/docker/mcp-gateway/issues/282) |
 
 </div>
 </details>
