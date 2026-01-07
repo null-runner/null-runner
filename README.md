@@ -127,6 +127,37 @@ fun_facts:
 
 ---
 
+<!-- OPEN SOURCE CONTRIBUTIONS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="24px" height="24px">
+  Open Source Contributions
+</h2>
+
+<div align="center">
+
+| 🏢 Project | Contribution | Status | Impact |
+|:-----------|:-------------|:-------|:-------|
+| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool activation for Claude clients ([#279](https://github.com/docker/mcp-gateway/pull/279)) | 🔄 Review | Critical bug blocking MCP tool usage |
+| [**docker/mcp-gateway**](https://github.com/docker/mcp-gateway) | Fixed tool name forwarding to remote servers ([#278](https://github.com/docker/mcp-gateway/pull/278)) | ✅ Merged | Enabled proper tool routing |
+
+</div>
+
+<details>
+<summary align="center"><b>📝 Issue Reports & Feature Requests</b></summary>
+<br/>
+
+<div align="center">
+
+| Project | Issue | Status |
+|:--------|:------|:-------|
+| **docker/mcp-gateway** | [Custom catalog servers UI visibility](https://github.com/docker/mcp-gateway/issues/283) | 🟡 Open |
+| **docker/mcp-gateway** | [Server inspect custom catalog bug](https://github.com/docker/mcp-gateway/issues/282) | 🟡 Open |
+
+</div>
+</details>
+
+---
+
 <!-- GITHUB STATS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24px" height="24px">
