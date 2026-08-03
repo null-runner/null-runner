@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:6e40c9&height=200&section=header&text=null-runner&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=I%20break%20things,%20then%20fix%20them&descSize=20&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:6e40c9&height=200&section=header&text=null-runner&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=automating%20everything,%20including%20myself&descSize=20&descAlignY=55&animation=twinkling"/>
 
 <!-- PROFILE VIEWS -->
 <div align="center">
@@ -19,7 +19,7 @@ $ whoami
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Nicholas;AI+Agent+Infrastructure+%7C+MCP+%7C+Self-hosted+LLMs;hermes-agent+contributor+%40+NousResearch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1800&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey%2C+I'm+Nicholas+%E2%9A%A1;I+build+AI+agents+%C2%B7+MCP+%C2%B7+self-hosted+LLMs;if+a+task+repeats%2C+it+gets+automated" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,9 +28,9 @@ $ whoami
 <!-- QUICK INFO BADGES -->
 <div align="center">
 
-  [![Contributor](https://img.shields.io/badge/⚡_hermes--agent-contributor-0d1117?style=for-the-badge&labelColor=1a1035&color=6e40c9)](https://github.com/NousResearch/hermes-agent/commits/main/?author=null-runner)
   [![Location](https://img.shields.io/badge/📍_Reggio_Emilia-Italy-0d1117?style=for-the-badge&labelColor=1a1035)](https://maps.google.com/?q=Reggio+Emilia,Italy)
   [![Twitter](https://img.shields.io/badge/@__nullrunner-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1035)](https://twitter.com/_nullrunner)
+  [![GitHub](https://img.shields.io/badge/null--runner-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1035)](https://github.com/null-runner)
 
 </div>
 
@@ -44,18 +44,16 @@ role: AI Agent Infrastructure & Automation Engineer
 location: Reggio Emilia, IT
 
 shipping:
-  - upstream contributions to NousResearch/hermes-agent   # session lifecycle, durable delegations
-  - chrome-mcp-docker                                     # Chrome DevTools MCP, hardened for Docker
-  - a fully self-hosted AI stack                          # local LLMs on CUDA, RAG over a 20k+ node
-                                                          # knowledge graph, voice agents (STT/TTS)
-day_job: turning business operations into automated revenue systems
-          # dashboards, n8n pipelines, CRM integrations
+  - a fully self-hosted AI stack        # local LLMs on CUDA, RAG over a 20k+ node
+                                        # knowledge graph, voice agents (STT/TTS)
+  - MCP servers for everything          # browsers, knowledge bases, infra
+  - automated revenue systems           # dashboards, n8n pipelines, CRM integrations
 
-philosophy: "If it ain't broke, I haven't touched it yet"
+philosophy: "if it ain't broke, I haven't touched it yet"
 
 fun_facts:
   - I talk to AI more than humans
-  - My Docker containers have better uptime than my sleep schedule
+  - my Docker containers have better uptime than my sleep schedule
   - my mouse needed a kernel-level HID watchdog. I built one.
 ```
 
@@ -82,7 +80,7 @@ fun_facts:
 
 | | |
 |---|---|
-| ⚡ **[hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=null-runner)** | Upstream contributions merged into NousResearch's agent framework — durable background delegations across session switches |
+| ⚡ **[hermes-agent](https://github.com/NousResearch/hermes-agent/commits/main/?author=null-runner)** | Contributor — durable background delegations merged upstream into NousResearch's agent framework |
 | 🐳 **[chrome-mcp-docker](https://github.com/null-runner/chrome-mcp-docker)** | Chrome DevTools MCP server for Docker — zero crashes, persistent sessions, Host-header workaround |
 | 🎨 **[portfolio](https://github.com/null-runner/portfolio)** | Interactive portfolio — AI automation & revenue systems (EN/IT) |
 | 📊 **[Demo-RedStones](https://github.com/null-runner/Demo-RedStones)** | Custom mini-CRM built end-to-end for a client demo |
@@ -92,12 +90,17 @@ fun_facts:
 ### `$ git stats --pretty`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=null-runner&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=6e40c9&text_color=c9d1d9&ring_color=9d4edd" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-runner&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="langs"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=null-runner&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=6e40c9&text_color=c9d1d9&ring_color=9d4edd" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=null-runner&hide_border=true&background=0d1117&ring=9d4edd&fire=6e40c9&currStreakLabel=9d4edd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
 </div>
 
 <div align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=null-runner&bg_color=0d1117&color=9d4edd&line=6e40c9&point=c9d1d9&area=true&hide_border=true" alt="activity graph"/>
+</div>
+
+<!-- SNAKE (generato dalla Action; compare quando il workflow è attivo) -->
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/null-runner/null-runner/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 <!-- FOOTER -->
