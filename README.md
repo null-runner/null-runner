@@ -100,7 +100,7 @@ fun_facts:
 
 <!-- SNAKE (generato dalla Action; compare quando il workflow è attivo) -->
 <div align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/null-runner/null-runner/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img width="92%" src="https://raw.githubusercontent.com/null-runner/null-runner/output/github-snake-dark.svg" alt="snake"/>
 </div>
 
 <!-- FOOTER -->
